@@ -1,0 +1,350 @@
+{
+  "2e883c4ef89b85bc": {
+    "name": "Ancient Spire Outpost",
+    "location": "Q17"
+  },
+  "6184f0e5ae706ba8": {
+    "name": "Ashen Reaches",
+    "location": "U23 / V23"
+  },
+  "51602c7106466144": {
+    "name": "Barnacle Cay",
+    "location": "O15 / O16"
+  },
+  "c9a3d302f1ccb6d3": {
+    "name": "Black Sand Atoll",
+    "location": "O3 / O4"
+  },
+  "5edb5bc0de14071f": {
+    "name": "Black Water Enclave",
+    "location": "R5"
+  },
+  "c72e39b57291fe11": {
+    "name": "Blind Man's Lagoon",
+    "location": "N6"
+  },
+  "81ea2317e4e54768": {
+    "name": "Booty Isle",
+    "location": "K20"
+  },
+  "fdd612645846c87": {
+    "name": "Boulder Cay",
+    "location": "G5"
+  },
+  "4a002b12bb0161a7": {
+    "name": "Brian's Bazaar",
+    "location": "Y12"
+  },
+  "586e2bfc35bf955b": {
+    "name": "Brimstone Rock",
+    "location": "X18 / Y18"
+  },
+  "f45b9d46d0f12440": {
+    "name": "Cannon Cove",
+    "location": "F10 / G9 / G10"
+  },
+  "179159d994441c1f": {
+    "name": "Castaway Isle",
+    "location": "K14"
+  },
+  "4810e43689f4132a": {
+    "name": "Chicken Isle",
+    "location": "I16"
+  },
+  "9c9b7bd47220d561": {
+    "name": "Cinder Islet",
+    "location": "U14"
+  },
+  "e666cf22bc308bc4": {
+    "name": "Crescent Isle",
+    "location": "B9 / C9"
+  },
+  "cd0451e09b8c415c": {
+    "name": "Crook's Hollow",
+    "location": "M16 / N16"
+  },
+  "e0e8d3e2fae613d0": {
+    "name": "Crooked Masts",
+    "location": "O11"
+  },
+  "82ea589dd68abd82": {
+    "name": "Crow's Nest Fortress",
+    "location": "O17 / O18"
+  },
+  "caa8acb877614bc6": {
+    "name": "Cursewater Shores",
+    "location": "Y13"
+  },
+  "69867944a6cc01a0": {
+    "name": "Cutlass Cay",
+    "location": "M18"
+  },
+  "e60da04d6b3fd563": {
+    "name": "Dagger Tooth Outpost",
+    "location": "M7 / M8 / N7 / N8"
+  },
+  "1403fa44f920cfd8": {
+    "name": "Devil's Ridge",
+    "location": "P19"
+  },
+  "fb71cc7b3c9ea362": {
+    "name": "Devil's Thrist",
+    "location": "W21"
+  },
+  "cacee1cbeed719c0": {
+    "name": "Discovery Ridge",
+    "location": "D17 / E17"
+  },
+  "d9a9dc1ed120406a": {
+    "name": "Fetcher's Rest",
+    "location": "V12"
+  },
+  "373bac623751ebac": {
+    "name": "Flame's End",
+    "location": "V19"
+  },
+  "778fa3440d6c414d": {
+    "name": "Flintlock Peninsula",
+    "location": "W14 / W15"
+  },
+  "f561e6b188209646": {
+    "name": "Fools Lagoon",
+    "location": "I14"
+  },
+  "5ec008e748bf721": {
+    "name": "Forsaken Brink",
+    "location": "T16 / U16"
+  },
+  "ec816288b8affeaf": {
+    "name": "Fort of the Damned",
+    "location": "L14"
+  },
+  "e74e5230081f5d6d": {
+    "name": "Galleon's Grave Outpost",
+    "location": "R8"
+  },
+  "baa9bd1da16ec62": {
+    "name": "Glowstone Cay",
+    "location": "Z18"
+  },
+  "e142a461459314cf": {
+    "name": "Golden Sands Outpost",
+    "location": "D10 / D11 / E10"
+  },
+  "302ca3ce7c9699ae": {
+    "name": "Hidden Spring Keep",
+    "location": "I8"
+  },
+  "3b65fded4cd9c4b9": {
+    "name": "Isle of Last Words",
+    "location": "O9"
+  },
+  "ea8454f69d3b4040": {
+    "name": "Keel Haul Fort",
+    "location": "C6 / D6"
+  },
+  "d63ac231f44ab5c5": {
+    "name": "Kraken Watchtower",
+    "location": "L6"
+  },
+  "8365321191fc80d3": {
+    "name": "Kraken's Fall",
+    "location": "R12 / R13"
+  },
+  "89e928f6cba11158": {
+    "name": "Lagoon of Whispers",
+    "location": "D12 / D13"
+  },
+  "93f1520e1a25fbc7": {
+    "name": "Liar's Backbone",
+    "location": "S11"
+  },
+  "280e6e8902fae4dd": {
+    "name": "Lone Cove",
+    "location": "H6"
+  },
+  "41fc573263d77b7e": {
+    "name": "Lonely Isle",
+    "location": "G8"
+  },
+  "cefd6d68faf05a4b": {
+    "name": "Lookout Point",
+    "location": "I20 / J20"
+  },
+  "552c286e23f94017": {
+    "name": "Magma's Tide",
+    "location": "Y20"
+  },
+  "544f22ab716fd67": {
+    "name": "Marauder's Arch",
+    "location": "Q3 / Q4"
+  },
+  "1bb92da73e2432e5": {
+    "name": "Mermaids Hideaway",
+    "location": "B13 / C13"
+  },
+  "215c5ebc01064c86": {
+    "name": "Molten Sands Fortress",
+    "location": "Z11 / Z12"
+  },
+  "f85118af3ff7e990": {
+    "name": "Morrow's Peak Outpost",
+    "location": "V17"
+  },
+  "8d6be929bf7b575e": {
+    "name": "Mutineer Rock",
+    "location": "N19"
+  },
+  "d523921e430cf893": {
+    "name": "North Star Seapost",
+    "location": "H10"
+  },
+  "755ec034a7574eda": {
+    "name": "Old Faithful Isle",
+    "location": "M4 / M5/ N4 / N5"
+  },
+  "f777fa2c45c5f616": {
+    "name": "Old Salts Atoll",
+    "location": "F18 / F19"
+  },
+  "102c6b3490788ce0": {
+    "name": "Paradise Spring",
+    "location": "L17"
+  },
+  "87fa4eb46ad7c2c4": {
+    "name": "Picaroon Palms",
+    "location": "I4"
+  },
+  "8bf41d1ffa7d72b7": {
+    "name": "Plunder Outpost",
+    "location": "J18 / K18"
+  },
+  "8c23b3e949599aa7": {
+    "name": "Plunder Valley",
+    "location": "G16"
+  },
+  "f16eeeea57c3e9c4": {
+    "name": "Plunderer's Plight",
+    "location": "Q6"
+  },
+  "9060f0951c9905d7": {
+    "name": "Rapier Cay",
+    "location": "D8"
+  },
+  "34c5c6992d2cbf55": {
+    "name": "Reaper's Hideout",
+    "location": "I12 / I13"
+  },
+  "911dac8aadb6da93": {
+    "name": "Roaring Sands",
+    "location": "U21"
+  },
+  "13c4e731fda072e": {
+    "name": "Roaring Traders",
+    "location": "U20"
+  },
+  "a010f7cb67b86c07": {
+    "name": "Ruby's Fall",
+    "location": "Y16"
+  },
+  "c1be2b910eda1527": {
+    "name": "Rum Runner Isle",
+    "location": "H9 / I9"
+  },
+  "c52f629579d28af": {
+    "name": "Sailor's Bounty",
+    "location": "B4 / B5 / C4 / C5"
+  },
+  "d654a282fd8706a4": {
+    "name": "Sailor's Knot Stronghold",
+    "location": "E14"
+  },
+  "2b6bd63b9d574e0d": {
+    "name": "Salty Sands",
+    "location": "G3 / G4"
+  },
+  "c64e1636176935b5": {
+    "name": "Sanctuary Outpost",
+    "location": "F7"
+  },
+  "96b25be2bc165f81": {
+    "name": "Sandy Shallows",
+    "location": "D5 / E5"
+  },
+  "99bb9ee62cf3006a": {
+    "name": "Scorched Pass",
+    "location": "X11"
+  },
+  "4ee875c646eecd28": {
+    "name": "Scurvy Isley",
+    "location": "K4"
+  },
+  "ad888b4aa3520b35": {
+    "name": "Sea Dog's Rest",
+    "location": "C11"
+  },
+  "bf11ef4175e01264": {
+    "name": "Shark Bait Cove",
+    "location": "H19 / H20"
+  },
+  "ecddcf6bf56fb197": {
+    "name": "Shark Fin Camp",
+    "location": "P5"
+  },
+  "8ed4c861a050ed2d": {
+    "name": "Shark Tooth Key",
+    "location": "P13"
+  },
+  "869edbc4d6ab4c85": {
+    "name": "Shipwreck Bay",
+    "location": "M10 / M11"
+  },
+  "1ebc7a01208733f9": {
+    "name": "Shiver Retreat",
+    "location": "Q11"
+  },
+  "89e6f06d4d8a3014": {
+    "name": "Skull Keep",
+    "location": "P9"
+  },
+  "e21787fda43ce93d": {
+    "name": "Smuggler's Bay",
+    "location": "E3 / E4 / F3 / F4"
+  },
+  "d67fab25f5ef123e": {
+    "name": "Snake Island",
+    "location": "K15 / K16"
+  },
+  "e8741db4216873dd": {
+    "name": "Stephen's Spoils",
+    "location": "L15 / L16"
+  },
+  "d515d4097a53664e": {
+    "name": "Sunken Grove",
+    "location": "O7 / P7"
+  },
+  "39b64bbe29865245": {
+    "name": "The Spoils of Plenty Store",
+    "location": "B7"
+  },
+  "5983749ad67cae71": {
+    "name": "Thieves' Haven",
+    "location": "L20 / M20"
+  },
+  "2d9a0f09de0b31d": {
+    "name": "Three Paces East Seapost",
+    "location": "S9"
+  },
+  "bd3fb33be79a2183": {
+    "name": "Tri-Rock Isle",
+    "location": "R10"
+  },
+  "f6f3962a0d53178a": {
+    "name": "Twin Groves",
+    "location": "H11"
+  },
+  "a80c3504d5ad14f0": {
+    "name": "Wanderer's Refuge",
+    "location": "F12 / F13 / G12"
+  }
+}
