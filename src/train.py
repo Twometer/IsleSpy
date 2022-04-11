@@ -43,13 +43,28 @@ def img_range(img, center, radius):
     return cv2.inRange(img, center - radius, center + radius)
 
 
-def normalize_contour(contour, shape):
+def normalize_contour(contour):
+    x_values = []
+    y_values = []
+
+    for point in contour:
+        x_values.append(point[0])
+        y_values.append(point[0])
+
+    min_x = min(x_values)
+    min_y = min(y_values)
+    max_x = max(x_values)
+    max_y = max(y_values)
+
+    width = max_x - min_x
+    height = max_y - min_y
+
     points = []
-    for inpoints in contour:
-        for point in inpoints:
-            x = point[0] / shape[0] * 1000
-            y = point[1] / shape[1] * 1000
-            points.append((round(x), round(y)))
+    for point in contour:
+        x = (point[0] - min_x) / width * 1000
+        y = (point[1] - min_y) / height * 1000
+        points.append((round(x), round(y)))
+
     return points
 
 
@@ -70,10 +85,18 @@ for i in islands:
     landMask = cv2.morphologyEx(landMask, cv2.MORPH_CLOSE, kernel, iterations=3)
 
     contours, hierarchy = cv2.findContours(image=landMask, mode=cv2.RETR_LIST, method=cv2.CHAIN_APPROX_SIMPLE)
+
+    all_points = []
     for idx in range(0, len(contours)):
         area = cv2.contourArea(contours[idx])
         if sqrt(area) > min(seaMask1.shape[0] / 10, 20):
             cv2.drawContours(image=image, contours=contours, contourIdx=idx, color=(0, 255, 0), thickness=1)
-            island_contours[i] = normalize_contour(contours[idx], seaMask1.shape)
+            for ct in contours[idx]:
+                for pt in ct:
+                    all_points.append(pt)
+
+    island_contours[i] = normalize_contour(all_points)
+    # cv2.imshow('Island', image)
+    # cv2.waitKey()
 
 json.dump(island_contours, open("../islands/contours.json", "w"))
